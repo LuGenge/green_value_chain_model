@@ -7,7 +7,7 @@
 Green Value Chains, Green Ammonia, Green Methanol, Industrial Decarbonisation, Sourcing Strategies, Energy Sovereignty, Techno-Economic Optimisation
 
 ### Links 
-Data and Results:
+Data, Code and Results: https://doi.org/10.5281/zenodo.16946897
 
 ### Citing us
 
