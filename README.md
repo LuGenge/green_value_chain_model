@@ -6,6 +6,9 @@
 ### Keywords:
 Green Value Chains, Green Ammonia, Green Methanol, Industrial Decarbonisation, Sourcing Strategies, Energy Sovereignty, Techno-Economic Optimisation
 
+### Links 
+Data and Results:
+
 ### Citing us
 
 The Well-to-Consumer model used in our paper is free: you can access, modify and share it under the terms of the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. This model is shared in the hope that it will be useful for further research on topics of supply chain optimization, but without any warranty of merchantability or fitness for a particular purpose. 
